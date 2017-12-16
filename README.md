@@ -1,9 +1,10 @@
 # Befaco_VCADSR_v1.1
 Hamara Labs modified version of the Befaco version 1 VCADSR
+
 The original files from Befaco are available here:
 https://www.befaco.org/en/sinte-modular/en-produccion/vc-adsrv1/
 
-Original design by Juergen Haible (http://www.jhaible.info/tonline_stuff/hj_vc_hadsr.html) 
+Original design by Juergen Haible (http://www.jhaible.info/tonline_stuff/hj_vc_hadsr.html)
 
 and Tom Gamble (http://synthdiy.fonitronik.de/files/4613/8287/9784/vcradsr.pdf)
 
