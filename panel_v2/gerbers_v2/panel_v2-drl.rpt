@@ -1,0 +1,25 @@
+Drill report for J:/music/Dave_modules/Befaco_VCADSR/panel/panel_v2/panel_v2.kicad_pcb
+Created on 7/13/2017 8:56:32 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'panel_v2.drl' contains
+    plated through holes:
+    =============================================================
+
+    Total plated holes count 0
+
+
+Drill file 'panel_v2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.10mm  0.122"  (1 hole)
+    T2  3.20mm  0.126"  (4 holes)  (with 4 slots)
+    T3  6.50mm  0.256"  (7 holes)
+    T4  7.20mm  0.283"  (2 holes)
+
+    Total unplated holes count 14
