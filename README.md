@@ -24,4 +24,4 @@ This file takes precedence over the BOM in the assembly instructions document.
 
 PCBs and panels *may* be available from Hamara Labs. Email HamaraLabs1 (at) gmail (dot) com to find out.
 
-I believe all these files are correct, but I make no warranty whatsoever. Build at your own risk. If you find any problems with these files, please contact Hamara Labs at HamaraLabs1 (at) gmail.com and I will update the files.
+I believe all these files are correct, but I make no warranty whatsoever. Build at your own risk. If you find any problems with these files, please contact Hamara Labs at HamaraLabs1 (at) gmail (dot) com and I will update the files.
