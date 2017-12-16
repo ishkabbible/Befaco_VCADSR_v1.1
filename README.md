@@ -2,7 +2,9 @@
 Hamara Labs modified version of the Befaco version 1 VCADSR
 The original files from Befaco are available here:
 https://www.befaco.org/en/sinte-modular/en-produccion/vc-adsrv1/
+
 Original design by Juergen Haible (http://www.jhaible.info/tonline_stuff/hj_vc_hadsr.html) 
+
 and Tom Gamble (http://synthdiy.fonitronik.de/files/4613/8287/9784/vcradsr.pdf)
 
 I fixed a couple of bugs
@@ -18,4 +20,4 @@ This repository contains 2 PCBs (FRONT and BACK) and one panel, all in KiCAD (ht
 
 The BOM is at https://docs.google.com/spreadsheets/d/1yNOWsHSHRAM60BiDUVynL0L72_J8PpAY8x3tWKFwJsM/edit?usp=sharing
 
-If you find any problems with these files, please contact Hamara Labs at HamaraLabs1 (at) gmail.com
+I believe all these files are correct, but I make no warranty whatsoever. Build at your own risk. If you find any problems with these files, please contact Hamara Labs at HamaraLabs1 (at) gmail.com and I will update the files.
