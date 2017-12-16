@@ -19,5 +19,6 @@ I also updated the layout to use parts that are more readily available than the 
 This repository contains 2 PCBs (FRONT and BACK) and one panel, all in KiCAD (http://kicad-pcb.org/)
 
 The BOM is at https://docs.google.com/spreadsheets/d/1yNOWsHSHRAM60BiDUVynL0L72_J8PpAY8x3tWKFwJsM/edit?usp=sharing
+This file takes precedence over the BOM in the assembly instructions document.
 
 I believe all these files are correct, but I make no warranty whatsoever. Build at your own risk. If you find any problems with these files, please contact Hamara Labs at HamaraLabs1 (at) gmail.com and I will update the files.
