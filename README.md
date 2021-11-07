@@ -17,7 +17,7 @@ I fixed a couple of bugs
   
 I also updated the layout to use parts that are more readily available than the parts used in the original design. 
   
-This repository contains 2 PCBs (FRONT and BACK) and one panel, all in KiCAD (http://kicad-pcb.org/)
+This repository contains 2 PCBs (FRONT and BACK) and one panel, all in KiCAD (http://kicad.org/)
 
 The BOM is at https://docs.google.com/spreadsheets/d/1yNOWsHSHRAM60BiDUVynL0L72_J8PpAY8x3tWKFwJsM/edit?usp=sharing
 This file takes precedence over the BOM in the assembly instructions document.
